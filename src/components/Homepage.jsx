@@ -1,9 +1,10 @@
 import React from 'react'
 import HeroSection from './HeroSection'
 import About from './About'
-import Countries from './Countries'
+import States from './States'
 import Services from './Services'
 import Contact from './Contact'
+import Footer from './Footer'
 
 const Homepage = () => {
   return (
@@ -11,8 +12,9 @@ const Homepage = () => {
         <HeroSection/>
         <About/>
         <Services/>
-        <Countries/>
+        <States/>
         <Contact/>
+        <Footer/>
     </>
   )
 }

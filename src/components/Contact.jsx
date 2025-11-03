@@ -27,7 +27,7 @@ import { FiMail } from "react-icons/fi";
 const Contact = () => {
     return (
         <div
-            className="flex flex-col justify-center items-center mx-auto my-40 px-5 md:px-20"
+            className="flex flex-col justify-center items-center mx-auto my-10 md:my-40 px-5 md:px-20"
             id="contact-page"
         >
             {/* Header */}
@@ -61,7 +61,7 @@ const Contact = () => {
             </div> */}
 
             {/* Contact Form */}
-            <div className="mt-20 w-full max-w-3xl bg-white rounded-2xl shadow-md p-10">
+            <div className="md:mt-20 w-full max-w-3xl bg-white rounded-2xl shadow-md p-10">
                 <form className="flex flex-col gap-5">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                         <input
