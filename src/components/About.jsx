@@ -99,7 +99,8 @@ const About = () => {
             </h1>
 
             <h2 className="text-3xl sm:text-4xl lg:text-5xl text-center font-bold text-[#0E2553] leading-snug max-w-3xl">
-                One Platform. Global Impact.
+                Transforming Schools. Empowering Futures.
+
             </h2>
 
             <p className="text-center text-[#555] text-base sm:text-lg mt-5 max-w-2xl">
