@@ -95,7 +95,7 @@ const cardContent = [
 const States = () => {
     return (
         <div
-            className="flex flex-col justify-center items-center mx-auto my-20 px-5 md:px-10 bg-[#F9FAFB] py-10"
+            className="flex flex-col  justify-center items-center mx-auto my-20 px-5 md:px-10 bg-[#F9FAFB] py-10"
             id="states-page"
         >
             <h1 className="border border-gray-500 rounded-2xl font-bold text-center w-fit flex justify-center mx-auto px-3 py-1 bg-[#F1F7FE] text-[#1E40AF] mb-10">
@@ -112,7 +112,7 @@ const States = () => {
                 requirements.
             </p>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mt-10 w-full max-w-6xl">
+            {/* <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mt-10 w-full max-w-6xl">
                 {cardContent.map((item) => (
                     <div
                         key={item.id}
@@ -127,7 +127,8 @@ const States = () => {
                         <p className="text-[#747C86] text-sm">{item.description}</p>
                     </div>
                 ))}
-            </div>
+            </div> */}
+            <img src="https://maps-nigeria.com/img/0/map-of-nigeria-showing-the-36-states.jpg" alt="Nigeria Map" className='my-10 w-[800px]' />
         </div>
     );
 };

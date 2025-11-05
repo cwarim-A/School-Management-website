@@ -103,8 +103,8 @@ const About = () => {
             </h2>
 
             <p className="text-center text-[#555] text-base sm:text-lg mt-5 max-w-2xl">
-                Streamline daily operations — from attendance to grading and communication.
-                Automate repetitive tasks and free up time for what truly matters — student growth and meaningful learning.
+                Simplify school management with intelligent automation. From attendance tracking to performance analytics, everything connects effortlessly.
+                Spend less time on admin and more time shaping the next generation of thinkers and leaders.
             </p>
 
             {/* Card Grid */}
