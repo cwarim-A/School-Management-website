@@ -61,36 +61,36 @@
 
 import React from 'react'
 
-const cardContent = [
-    {
-        id: 1,
-        title: "Lagos State",
-        icon: "LAG",
-        description:
-            "Empowering schools in Nigeria’s commercial hub with digital tools that simplify administration, enhance teacher productivity, and enable data-driven decision-making for improved student outcomes",
-    },
-    {
-        id: 2,
-        title: "Oyo State",
-        icon: "OYO",
-        description:
-            "Supporting educational growth in Oyo State through AI-powered learning systems that streamline lesson delivery, performance tracking, and collaboration between schools and parents.",
-    },
-    {
-        id: 3,
-        title: "Abuja",
-        icon: "ABJ",
-        description:
-            "Transforming education in the Federal Capital Territory with smart analytics, centralized school management, and seamless integration across public and private institutions.",
-    },
-    {
-        id: 4,
-        title: "Port Harcourt",
-        icon: "PH",
-        description:
-            "Enhancing educational administration across Rivers State with automated reporting, attendance management, and cloud-based communication tools designed for schools of all sizes.",
-    },
-];
+// const cardContent = [
+//     {
+//         id: 1,
+//         title: "Lagos State",
+//         icon: "LAG",
+//         description:
+//             "Empowering schools in Nigeria’s commercial hub with digital tools that simplify administration, enhance teacher productivity, and enable data-driven decision-making for improved student outcomes",
+//     },
+//     {
+//         id: 2,
+//         title: "Oyo State",
+//         icon: "OYO",
+//         description:
+//             "Supporting educational growth in Oyo State through AI-powered learning systems that streamline lesson delivery, performance tracking, and collaboration between schools and parents.",
+//     },
+//     {
+//         id: 3,
+//         title: "Abuja",
+//         icon: "ABJ",
+//         description:
+//             "Transforming education in the Federal Capital Territory with smart analytics, centralized school management, and seamless integration across public and private institutions.",
+//     },
+//     {
+//         id: 4,
+//         title: "Port Harcourt",
+//         icon: "PH",
+//         description:
+//             "Enhancing educational administration across Rivers State with automated reporting, attendance management, and cloud-based communication tools designed for schools of all sizes.",
+//     },
+// ];
 
 const States = () => {
     return (
